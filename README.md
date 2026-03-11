@@ -4,7 +4,7 @@
 
 ## Prerequisites
 * GNOME Terminal
-* `dconf-cli` (Installed by default on almost all modern GNOME-based systems. If missing, install via `sudo apt install dconf-cli` or using package manager).
+* `dconf-cli` (Installed by default on almost all modern GNOME-based systems. If missing, install via `sudo apt install dconf-cli` or using your respective package manager).
 * `git`
 
 ## Installation & Usage
@@ -18,13 +18,13 @@ cd gnome-terminal-github-theme
 **2. Make the installer executable**
 
 ```bash
-chmod +x apply.sh
+chmod +x apply-theme.sh
 ```
 
 **3. Run the script**
 
 ```bash
-./apply.sh
+./apply-theme.sh
 ```
 The selection menu will appear, choose the dark or light theme and done.
 <img src="images/selection-menu.png" alt="The selection menu" width="600">
