@@ -1,4 +1,4 @@
-# GitHub Light Theme Colors
+# GitHub Dark Theme Colors
 THEME_NAME="GitHub Dark"
 BG_COLOR="#24292e"
 FG_COLOR="#e1e4e8"
